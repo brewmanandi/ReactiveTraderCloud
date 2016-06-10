@@ -19,3 +19,5 @@ key.priv
 key.pub
 bin/
 obj/.hive
+config.bat
+node_modules
